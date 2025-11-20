@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android BalanceApp</string>
+    <string name="welcome_title">Bienvenido a la POKEDEX!</string>
+    <string name="welcome_subtitle">Busca tu pokemón favorito</string>
+    <string name="welcome_description">Encuentra información interesante de cada pokemón</string>
+    <string name="get_started">Iniciar</string>
+</resources>
